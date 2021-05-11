@@ -8,4 +8,8 @@ https://pypi.org/project/Kivy/
 
 and start with your mobile app with KIVY_MD
 
+documentation:
+
+https://kivymd.readthedocs.io/en/latest/
+
 https://kivy.org/doc/stable/
